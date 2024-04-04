@@ -1,0 +1,27 @@
+INSERT INTO customer (customer_first_name) VALUES ('Clara');
+INSERT INTO customer (customer_first_name) VALUES ('Mike');
+INSERT INTO customer (customer_first_name) VALUES ('Steph');
+INSERT INTO customer (customer_first_name) VALUES ('Leo');
+INSERT INTO customer (customer_first_name) VALUES ('John');
+INSERT INTO customer (customer_first_name) VALUES ('Jonas');
+INSERT INTO customer (customer_first_name) VALUES ('Clark');
+INSERT INTO customer (customer_first_name) VALUES ('Ella');
+INSERT INTO customer (customer_first_name) VALUES ('Jessi');
+INSERT INTO customer (customer_first_name) VALUES ('Soobin');
+INSERT INTO customer (customer_first_name) VALUES ('Jennifer');
+INSERT INTO customer (customer_first_name) VALUES ('George');
+INSERT INTO customer (customer_first_name) VALUES ('Abigail');
+INSERT INTO customer (customer_first_name) VALUES ('Sam');
+INSERT INTO customer (customer_first_name) VALUES ('Harvey');
+INSERT INTO customer (customer_first_name) VALUES ('Jodi');
+INSERT INTO customer (customer_first_name) VALUES ('Robin');
+INSERT INTO customer (customer_first_name) VALUES ('Pierre');
+INSERT INTO customer (customer_first_name) VALUES ('Alex');
+INSERT INTO customer (customer_first_name) VALUES ('Sebastian');
+INSERT INTO customer (customer_first_name) VALUES ('Lewis');
+INSERT INTO customer (customer_first_name) VALUES ('Demetrius');
+INSERT INTO customer (customer_first_name) VALUES ('Linus');
+INSERT INTO customer (customer_first_name) VALUES ('Caroline');
+INSERT INTO customer (customer_first_name) VALUES ('Haley');
+INSERT INTO customer (customer_first_name) VALUES ('Willy');
+
