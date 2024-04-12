@@ -33,10 +33,10 @@ public class PetStore {
 	
 	private String petStoreCity;
 	private String petStoreState;
-	private int petStoreZip;
+	private String petStoreZip;
 	
 	
-	private Long petStorePhone;
+	private String petStorePhone;
 	
 	@EqualsAndHashCode.Exclude
 	@ToString.Exclude
